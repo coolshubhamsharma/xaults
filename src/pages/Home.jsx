@@ -75,7 +75,7 @@ const Home = () => {
     <div>
         <Navbar/>
 
-        <section className='bg-black  pt-18 px-[7vw] flex-col justify-between text pb-5 '>
+        <section className='bg-black  pt-18 px-[7vw] flex-col justify-between text pb-5 h-[100vh]'>
             <div className='flex flex-col justify-between h-[40vh]'> 
                 <h1 className='text-white text-7xl'>India's First</h1>
                 
