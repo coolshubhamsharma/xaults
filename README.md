@@ -1,12 +1,49 @@
-# React + Vite
+<h1 align="center"><b> Xaults </b></h1> 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link - <a href="https://xaults.onrender.com/"> Link To Xaults</a>
+<br>
+<p align="center">
+<img src="./public/project - 8.png" width="700" title="Youtube-Clone">
+</p >
+<div  align="center">
+  
+</div>
 
-Currently, two official plugins are available:
+## About Us 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Xaults is a web page built to show animated features of a website using tools like Gsap.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Tech Stack
+
+
+-   Frontend : Reactjs, JavaScript, HTML5, Tailwind, Gsap , Vite
+
+-   Hosting Service Provider : render
+
+
+## Installation
+- git clone https://github.com/yourusername/xaults.git
+- cd xaults
+
+## Install Dependencies
+
+- npm install   
+
+## Start The Development Server
+
+- npm run dev
+
+## Build
+
+- npm run build
+
+## Running unit tests
+
+- npm test
+
+## Running end-to-end tests
+
+- npm run 2e2
